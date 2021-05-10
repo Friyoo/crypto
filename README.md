@@ -1,0 +1,2 @@
+# crypto
+Earning crypto
